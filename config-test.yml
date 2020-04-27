@@ -1,2 +1,2 @@
 config:
-      master,this is config-test.yml
+      info: master,this is config-test.yml
